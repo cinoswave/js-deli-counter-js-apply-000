@@ -1,1 +1,4 @@
-takeANumber
+function takeANumber(){
+  
+  
+}
