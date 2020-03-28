@@ -1,4 +1,4 @@
-function takeANumber(){
+function takeANumber(line, name){
   
   
 }
