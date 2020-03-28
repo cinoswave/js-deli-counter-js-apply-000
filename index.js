@@ -14,6 +14,6 @@ takeANumber(katzDeliLine, "Matz");
  
 currentLine(katzDeliLine);  
  
-nowServing(katzDeliLine); // "Currently serving Grace."
+nowServing(katzDeliLine); 
  
-currentLine(katzDeliLine); // "The line is currently: 1. Kent, 2. Matz"
+currentLine(katzDeliLine); 
